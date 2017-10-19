@@ -26,7 +26,7 @@ public class TestLogin {
         driver.navigate().to("http://localhost/litecart/admin");
         driver.findElement(By.name("username")).sendKeys("admin");
         driver.findElement(By.name("password")).sendKeys("123123");
-        driver.findElement(By.name("password")).sendKeys(Keys.ENTER);
+        driver.findElement(By.cssSelector("button[type='submit']")).click();
     }
 
     @After

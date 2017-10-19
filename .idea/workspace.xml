@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="938dd591-2edf-4975-b53a-651e9f006d82" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/TestLogin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/classes/TestLogin.class" afterPath="$PROJECT_DIR$/out/test/classes/TestLogin.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestLogin.java" afterPath="$PROJECT_DIR$/src/test/java/TestLogin.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -42,8 +43,8 @@
       <file leaf-file-name="TestLogin.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestLogin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="230">
+              <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -591,18 +592,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyFirstTest - 2017.10.09 at 11h 36m 14s.xml">
-      <configuration name="MyFirstTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyFirstTest - 2017.10.09 at 11h 37m 09s.xml">
-      <configuration name="MyFirstTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyFirstTest - 2017.10.09 at 11h 39m 38s.xml">
-      <configuration name="MyFirstTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyFirstTest - 2017.10.09 at 11h 43m 42s.xml">
-      <configuration name="MyFirstTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MyFirstTest - 2017.10.09 at 11h 44m 32s.xml">
       <configuration name="MyFirstTest" configurationId="JUnit" />
     </history-entry>
@@ -619,6 +608,18 @@
       <configuration name="TestLogin" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestLogin - 2017.10.19 at 16h 16m 28s.xml">
+      <configuration name="TestLogin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLogin - 2017.10.19 at 16h 21m 39s.xml">
+      <configuration name="TestLogin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLogin - 2017.10.19 at 16h 30m 33s.xml">
+      <configuration name="TestLogin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLogin - 2017.10.19 at 16h 31m 32s.xml">
+      <configuration name="TestLogin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLogin - 2017.10.19 at 16h 53m 46s.xml">
       <configuration name="TestLogin" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -1028,8 +1029,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestLogin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="230">
+          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
